@@ -1,0 +1,15 @@
+# Data analysis and manipulation
+
+pandas
+
+# Load environment variables from .env files
+
+python-dotenv
+
+# Browser automation
+
+playwright
+
+# Stealth functionality for Playwright
+
+playwright-stealth
